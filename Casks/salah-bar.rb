@@ -1,6 +1,6 @@
 cask "salah-bar" do
-  version "1.0"
-  sha256 "2b0a992aabd4d16f5dd759c6d3c61cc7909e9e4602dfda6c72543f83f99c8a02"
+  version "1.0.1"
+  sha256 "667cd6a849ac48004652ffcfffc965438b6718a2a4994f709dcbdc07f152dee5"
 
   url "https://github.com/mtahaikiz/homebrew-tap/releases/download/salah-bar-#{version}/SalahBar-#{version}.zip"
   name "Salah Bar"
